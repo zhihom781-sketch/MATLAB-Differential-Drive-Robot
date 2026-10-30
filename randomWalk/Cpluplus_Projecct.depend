@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1773561235 source:c:\gui trialrun\cpluplus_projecct\drone.cpp
+	"Drone.h"
+	<cmath>
+	<cstdlib>
+	<format>
+
+1773549899 c:\gui trialrun\cpluplus_projecct\drone.h
+	<vector>
+	"Map.h"
+
+1773565669 c:\gui trialrun\cpluplus_projecct\map.h
+	<set>
+	<vector>
+	<utility>
+	<iostream>
+
+1773549899 source:c:\gui trialrun\cpluplus_projecct\main.cpp
+	<wx/wx.h>
+	"MyFrame.h"
+
+1773566866 c:\gui trialrun\cpluplus_projecct\myframe.h
+	<wx/wx.h>
+	<wx/timer.h>
+	<wx/slider.h>
+	<cstdio>
+	<string>
+	<unordered_set>
+	<unordered_map>
+	"Map.h"
+	"Drone.h"
+
+1773565669 source:c:\gui trialrun\cpluplus_projecct\map.cpp
+	"Map.h"
+	<random>
+	<format>
+
+1773566310 source:c:\gui trialrun\cpluplus_projecct\myframe.cpp
+	"MyFrame.h"
+	<algorithm>
+	<sstream>
+	<format>
+
+1773567097 source:d:\ntu study\ma1602\group project (final)\drone.cpp
+	"Drone.h"
+	<cmath>
+	<cstdlib>
+	<format>
+
+1773567097 d:\ntu study\ma1602\group project (final)\drone.h
+	<vector>
+	"Map.h"
+
+1773567097 d:\ntu study\ma1602\group project (final)\map.h
+	<set>
+	<vector>
+	<utility>
+	<iostream>
+
+1773568401 source:d:\ntu study\ma1602\group project (final)\main.cpp
+	<wx/wx.h>
+	"MyFrame.h"
+
+1773567097 d:\ntu study\ma1602\group project (final)\myframe.h
+	<wx/wx.h>
+	<wx/timer.h>
+	<wx/slider.h>
+	<cstdio>
+	<string>
+	<unordered_set>
+	<unordered_map>
+	"Map.h"
+	"Drone.h"
+
+1773567097 source:d:\ntu study\ma1602\group project (final)\map.cpp
+	"Map.h"
+	<random>
+	<format>
+
+1773568281 source:d:\ntu study\ma1602\group project (final)\myframe.cpp
+	"MyFrame.h"
+	<algorithm>
+	<sstream>
+	<format>
+
+1773588732 source:c:\gui trialrun\group project (final)\drone.cpp
+	"Drone.h"
+	<cmath>
+	<cstdlib>
+	<format>
+
+1773588732 c:\gui trialrun\group project (final)\drone.h
+	<vector>
+	"Map.h"
+
+1773588732 c:\gui trialrun\group project (final)\map.h
+	<set>
+	<vector>
+	<utility>
+	<iostream>
+
+1773588732 source:c:\gui trialrun\group project (final)\main.cpp
+	<wx/wx.h>
+	"MyFrame.h"
+
+1773588732 c:\gui trialrun\group project (final)\myframe.h
+	<wx/wx.h>
+	<wx/timer.h>
+	<wx/slider.h>
+	<cstdio>
+	<string>
+	<unordered_set>
+	<unordered_map>
+	"Map.h"
+	"Drone.h"
+
+1773588732 source:c:\gui trialrun\group project (final)\map.cpp
+	"Map.h"
+	<random>
+	<format>
+
+1773588732 source:c:\gui trialrun\group project (final)\myframe.cpp
+	"MyFrame.h"
+	<algorithm>
+	<sstream>
+	<format>
+
+1773595143 source:c:\gui trialrun\group project (final)\myapp.rc
+	<wx/msw/wx.rc>
+
+1773596128 source:d:\ntu study\ma1602\group_project_final\drone.cpp
+	"Drone.h"
+	<cmath>
+	<cstdlib>
+	<format>
+
+1773596128 d:\ntu study\ma1602\group_project_final\drone.h
+	<vector>
+	"Map.h"
+
+1773596128 d:\ntu study\ma1602\group_project_final\map.h
+	<set>
+	<vector>
+	<utility>
+	<iostream>
+
+1773596128 source:d:\ntu study\ma1602\group_project_final\main.cpp
+	<wx/wx.h>
+	"MyFrame.h"
+
+1773596299 d:\ntu study\ma1602\group_project_final\myframe.h
+	<wx/wx.h>
+	<wx/timer.h>
+	<wx/slider.h>
+	<cstdio>
+	<string>
+	<unordered_set>
+	<unordered_map>
+	"Map.h"
+	"Drone.h"
+
+1773596405 source:d:\ntu study\ma1602\group_project_final\myframe.cpp
+	"MyFrame.h"
+	<algorithm>
+	<sstream>
+	<format>
+
+1773596269 source:d:\ntu study\ma1602\group_project_final\map.cpp
+	"Map.h"
+	<random>
+	<format>
+
